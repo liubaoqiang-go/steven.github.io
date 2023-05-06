@@ -1,0 +1,15 @@
+{
+  "index": {
+    "type": "page",
+    "title": "HUTAO",
+    "display": "hidden"
+  },
+  "blog": {
+    "title": "博客",
+    "type": "page"
+  },
+  "notes": {
+    "title": "笔记",
+    "type": "page"
+  }
+}
