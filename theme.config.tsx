@@ -29,9 +29,9 @@ const logo = (
 
 const config: DocsThemeConfig = {
   project: {
-    link: 'https://github.com/hutaod'
+    link: 'https://github.com/liubaoqiang-go'
   },
-  docsRepositoryBase: 'https://github.com/hutaod/hutaod.github.io',
+  docsRepositoryBase: 'https://github.com/liubaoqiang-go/steven.github.io',
   useNextSeoProps() {
     const { asPath } = useRouter()
     if (asPath !== '/') {
